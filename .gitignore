@@ -1,0 +1,14 @@
+/.gradle/
+/.idea/
+/build/
+/Cinema Room Manager/Arrangement/
+/Cinema Room Manager/Errors/
+/Cinema Room Manager/Menu, please/
+/Cinema Room Manager/Sold/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/Tickets/
+/Cinema Room Manager/lesson-info.yaml
+/Topics/
+*.yaml
+!course-info.yaml
